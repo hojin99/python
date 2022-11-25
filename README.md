@@ -1,7 +1,7 @@
 # python
 
 ## 환경
-python 3.7.1    
+python 3.7.1 이상    
 개발툴 - visual studio code   
 Python 확장 설치  
 
